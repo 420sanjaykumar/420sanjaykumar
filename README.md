@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @420sanjaykumar
 - 👀 I’m interested in JAVA + ANDROID 
-- 🌱 I’m currently pursuing Diploma(Last Year)
+- 🌱 I’m currently pursuing B.E(2nd Year)
 - 📫 How to reach me https://www.instagram.com/the_sanjay.bhardwaj
 
 <!---
